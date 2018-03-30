@@ -188,9 +188,3 @@ npm run server
 npm run start
 
 ```
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
-
-written by [xrr2016](https://github.com/xrr2016),欢迎issue,fork,star.
